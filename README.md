@@ -44,7 +44,7 @@ Gemini 说
 ## 如何使用
 1. 克隆仓库：
    ```bash
-   git clone [https://github.com/ChangeableZX/Text-sentiment-classification.git](https://github.com/ChangeableZX/Text-sentiment-classification.git)
+   git clone https://github.com/ChangeableZX/Text-sentiment-classification.git
 2. 安装依赖：
    ```bash
    pip install pandas numpy jieba smart_open gensim torch torchvision torchaudio transformers 

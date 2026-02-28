@@ -26,5 +26,14 @@
 3. **模型训练**: 尝试了多种分类器（如朴素贝叶斯、SVM 或随机森林）并进行调参。
 4. **结果评估**: 通过混淆矩阵和分类报告分析模型性能。
 
-## 📈 运行结果
+## 运行结果
 在 Notebook 结尾处，你可以查看到模型对样本数据的预测结果以及最终的准确率表现。
+
+## 如何使用
+1. 克隆仓库：
+   ```bash
+   git clone [https://github.com/ChangeableZX/Text-sentiment-classification.git](https://github.com/ChangeableZX/Text-sentiment-classification.git)
+2. 安装依赖：
+   ```bash
+   pip install pandas numpy scikit-learn nltk
+3. 运行 Jupyter Notebook 查看详细步骤。

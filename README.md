@@ -21,7 +21,7 @@
   - Smart_open: 高效处理大规模文本流数据。
 - **数据科学与工程**:
   - Pandas / Numpy: 结构化数据清洗、矩阵运算及 Tensor 转换。
--**开发环境**: Jupyter Notebook
+- **开发环境**: Jupyter Notebook
 
 ## 工作流程
 1. **环境初始化与数据准备**：利用 GPU 硬件加速训练；读取本地 TSV 训练集与测试集，并精准分离特征与标签。
